@@ -32,7 +32,7 @@ import codementorx from "./codementorx.png";
 import smsspamdetector from "./smsspamdetector.png";
 import tradingbot from "./tradingbot.png";
 import globe from "./globe.png";
-import energyx from "./Energyx.png";
+import energyx from "./energyx.png";
 
 export {
   logo,
