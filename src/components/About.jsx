@@ -48,14 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I’m a software developer with strong foundations in Python, Java, and
-        JavaScript, and hands-on experience with frameworks such as React and
-        Node.js. Alongside my development skills, I specialize in cybersecurity
-        concepts including secure coding, data protection, and fraud detection
-        through machine learning. I’m a fast learner who thrives in
-        high-pressure environments, and I collaborate closely with teams to
-        design secure, scalable, and resilient technology solutions that reduce
-        risk and protect critical systems.
+        Third-year Computer Science student at the University of Leicester, currently working at Bosch, with strong foundations in Python, Java, and JavaScript. I have hands-on experience with frameworks such as React and Node.js, and a growing interest in secure coding, data protection, and applying machine learning for fraud detection. I am a fast learner who thrives in high-pressure environments, and I enjoy collaborating with teams to design secure, scalable, and resilient technology solutions that minimize risk and protect critical systems.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
